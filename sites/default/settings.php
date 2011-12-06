@@ -183,9 +183,9 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'cssjsuor_cs160s2011g1',
-      'username' => 'root',
-      'password' => 'root',
+      'database' => 'cssjsuor_160s2g1',
+      'username' => 'cssjsuor_160s2g1',
+      'password' => 'password1@',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
